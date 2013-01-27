@@ -8,6 +8,6 @@ Running the node in ROS
 -----------------------
 Run the node with _roslaunch kb_control kb_control.launch_
 
-Running the node in MORSE via ROS nodes
----------------------------------------
+Running teleoperation in MORSE via ROS nodes
+--------------------------------------------
 The launch file _kb_control_morse.launch_ is remapped for incorporating ATRV simulations in MORSE, it can be run as _roslaunch kb_control kb_control_morse.launch_ while a MORSE ATRV simulation is running.
