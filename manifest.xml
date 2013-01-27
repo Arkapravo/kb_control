@@ -1,0 +1,16 @@
+<package>
+  <description brief="kb_control">
+
+     kb_control
+
+  </description>
+  <author>koushik kabiraj</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/test_move_base</url>
+  <depend package="roscpp"/>
+  <depend package="geometry_msgs" />
+
+</package>
+
+

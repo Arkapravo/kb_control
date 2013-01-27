@@ -1,0 +1,6 @@
+<launch>   
+    <node pkg="kb_control" type="kb_node" name="kb_node" output="screen">
+     <remap from="cmd_vel" to="ATRV/Motion_Controller" />
+    </node>
+</launch>
+

@@ -1,0 +1,5 @@
+<launch>   
+    <node pkg="kb_control" type="kb_node" name="kb_node" output="screen">
+    </node>
+</launch>
+
