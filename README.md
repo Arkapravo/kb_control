@@ -21,3 +21,5 @@ For simulation in MORSE via ROS nodes,
   b. Click on the kb_control terminal window, the arrow keys will move castor around
 
 This is tested on ROS Fuerte and MORSE 0.6
+
+![Image Alt](https://lh4.googleusercontent.com/-p9b3vgPXNh0/UQavBlGL7oI/AAAAAAAACT4/IC9tKKJILJE/s912/pic-3-github.png) 
