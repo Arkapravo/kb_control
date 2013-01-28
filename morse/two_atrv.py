@@ -2,7 +2,7 @@
 # 27 January 2013, Sunday
 # ROS Fuerte, installed at /opt/ros/
 # MORSE 0.6 installed at /opt/ros/
-# This file should be placed at /opt/ros/morse/share/morse/examples/scenarii
+# This file should be placed at /opt/ros/morse/share/morse/examples/scenarii/
 
 from morse.builder import *
 
