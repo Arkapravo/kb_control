@@ -13,6 +13,9 @@ Running teleoperation in MORSE via ROS nodes
 To marry ROS Fuerte with MORSE 0.6 in Ubuntu 12.04 see these instructions, 
 http://www.warp1337.com/content/morse-and-ros-detailed-installation-howto-ubuntu-precise
 
+ROS fuerte prefix -- _/opt/ros/fuerte_  
+MORSE prefix -- _/opt/ros/morse_
+
 To run the simulation in MORSE via ROS nodes,  
 
 1. Place the file kb_control/morse/two_atrv.py at /opt/ros/morse/share/morse/examples/scenarii/
